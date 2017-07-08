@@ -1,3 +1,6 @@
+body {
+	font-family: "Helvetica";
+}
 a {
 	text-align:center;display:block;
 	font-family: "Helvetica";
@@ -24,4 +27,31 @@ h4 {
 	height: 0px;
 	padding-top: 11px;
 
+}
+
+h5 {
+	font-family: "Helvetica";
+	font-size: 24px;
+	display:inline-block; 
+    margin-left: 350px;
+    height: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 3em;
+    margin-right: 3em;
+    border-style: inset;
+    border-width: 1px;
+} 
+
+p {
+	font-family: "Helvetica";
+	display: inline-block;
+	margin-left: 350px;
+	margin-right: 350px;
 }
